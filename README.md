@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+<h1 align="center">Hi there, I'm Ali 👋</h1>
+
+- 🚀 I’m Full Stack Web Developer
+- 🔭 I’m currently working with .NET And React
 
 <!--
 **AliAmiresmaeili/AliAmiresmaeili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
