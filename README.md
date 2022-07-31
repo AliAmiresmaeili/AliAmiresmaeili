@@ -1,5 +1,4 @@
-###
-<h1 align="center">Hi there, I'm Ali 👋</h1>
+###<h1 align="center">Hi there, I'm Ali 👋</h1>
 
 - 🚀 I’m Full Stack Web Developer
 - 🔭 I’m currently working with .NET And React
